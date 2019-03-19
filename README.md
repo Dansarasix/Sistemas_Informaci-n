@@ -1,3 +1,3 @@
 # Sistemas_Informaci-n
 
-Hola
+Hola, ahora está en Slack
